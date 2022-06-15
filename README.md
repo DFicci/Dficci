@@ -9,7 +9,7 @@
 
 About Me:
 
-I am an aspiring Software Developer from Houston, Tx.  
+I am an aspiring Software Developer from Katy, Tx.  
 - :medal_military: I served in the United States Marine Corps.
 - :seedling: I am always growing and working on Professional Development.
 - :clock530: In my free time, I do research and take courses to improve my knowledge in developing software.
