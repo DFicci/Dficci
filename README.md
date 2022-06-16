@@ -1,5 +1,5 @@
 
-#  Welcome to my Github, I'm Daniel! :wave:
+## Welcome to my Github, I'm Daniel! :wave:
 
 <div align="center">
   <img src="https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="600" height="300"/>
